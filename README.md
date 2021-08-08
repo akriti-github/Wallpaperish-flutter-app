@@ -1,4 +1,4 @@
-# wallpaper
+# Wallpaperish
 
 A new Flutter project.
 
